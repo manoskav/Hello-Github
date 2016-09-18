@@ -8,6 +8,7 @@ void main(){
 	while(1){
 		
 		printf("Voltage:\t%d\n",myfun(x,y));
+		a=10;
 		
 	}
 	
