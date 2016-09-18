@@ -7,7 +7,7 @@ void main(){
 	
 	while(1){
 		
-		printf("%d\n",myfun(x,y));
+		printf("Voltage:\t%d\n",myfun(x,y));
 		
 	}
 	
