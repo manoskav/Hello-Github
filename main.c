@@ -3,8 +3,13 @@
 
 void main(){
 	
+	int x,y;
 	
-	while(1);
+	while(1){
+		
+		printf("%d\n",myfun(x,y));
+		
+	}
 	
 	
 	
